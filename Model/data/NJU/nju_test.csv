@@ -1,0 +1,63 @@
+musicId,spotifyId,name,artist,duration,emotion,NJU_idx,arousal,valence
+577,3pMKHuks2P0KxpepNSkokg,Amnesia,The Fabulous Thunderbirds,225,Happy,Happy_9,High Arousal,High Valence
+579,71IScwIe7bcIlpnlkbKVQw,Santa Baby,Taylor Swift,165,Happy,Happy_51,High Arousal,High Valence
+583,2bwxqGKS5GPXfNanAIRe2p,Seven Days In Sunny June,Jamiroquai,240,Relaxed,Relaxed_44,Low Arousal,High Valence
+585,55iBWhqprdiuq8vep2jfqh,Somedays,Room Eleven,147,Happy,Happy_65,High Arousal,High Valence
+588,0t3ssrMALrqWRqMXaOngdJ,The Long And Winding Road,Paul McCartney,228,Relaxed,Relaxed_70,Low Arousal,High Valence
+590,1ExfPZEiahqhLyajhybFeS,The Lazy Song,Bruno Mars,190,Happy,Happy_81,High Arousal,High Valence
+591,1rZYmFybIdfGjsYbPC970I,Party Til You Puke,Andrew W.K.,155,Happy,Happy_40,High Arousal,High Valence
+592,2atnFyJisDrLyv8HdAVflG,Two Doors Down,Mark Burchfield,178,Happy,Happy_91,High Arousal,High Valence
+594,6m33Yez7wEXJnep9Tyl3DQ,You Took My Heart Away,Michael Learns To Rock,274,Relaxed,Relaxed_101,Low Arousal,High Valence
+595,3UmaczJpikHgJFyBTAJVoz,Stan,Eminem,406,Angry,Angry_31,High Arousal,Low Valence
+596,4YZcr09gdEqBN43BS5kAVR,Time for You to Go,Sum 41,182,Angry,Angry_57,High Arousal,Low Valence
+597,4MOBPIIRUgHTBAp0NpgLTm,Where Are You Now,Britney Spears,280,Sad,Sad_90,Low Arousal,Low Valence
+598,2CoOb7f00S9B7y4IyB2bT6,A Place Nearby,Lene Marlin,252,Relaxed,Relaxed_6,Low Arousal,High Valence
+599,74YVs8w9ORaD0O2C2dlEL2,Thanks For Nothing,Sum 41,184,Angry,Angry_42,High Arousal,Low Valence
+600,6nFqXBpJRPcyfay192nlyB,The Surrender,Limp Bizkit,239,Angry,Angry_53,High Arousal,Low Valence
+601,7c7v0eruo9n6vIBQDfIWHd,Sunshine,Matt Costa,155,Happy,Happy_73,High Arousal,High Valence
+602,0DxYrFOfiFShTbO2XdFpBX,Requiem,Lamb of God,251,Angry,Angry_7,High Arousal,Low Valence
+603,5ln1Tttut50qIL1KJkl3YC,All The Way,Craig David,222,Relaxed,Relaxed_12,Low Arousal,High Valence
+604,3oBsEd0mQKKge4HSSt5yV8,Seven Years,Norah Jones,147,Relaxed,Relaxed_45,Low Arousal,High Valence
+605,2rDwdvBma1O1eLzo29p2cr,Whataya Want From Me,Adam Lambert,230,Sad,Sad_88,Low Arousal,Low Valence
+606,4lO57zZGFcj7vSY4QhfVDq,She'S The One,Robbie Williams,262,Relaxed,Relaxed_48,Low Arousal,High Valence
+607,74WBGgUnpKrJXt6TETfR6Z,Never Grow Up,Taylor Swift,296,Sad,Sad_23,Low Arousal,Low Valence
+608,4jacsL77ZYnpInmTtUBaJW,Move Your Feet,Junior Senior,186,Happy,Happy_30,High Arousal,High Valence
+609,36OWcdFqjTuWZEP7qsxvXw,Skipalong,Lenka,236,Sad,Sad_51,Low Arousal,Low Valence
+610,0Fpzme3KEtRUYBz3EXbKml,Speak Your Heart,Lizz Wright,225,Relaxed,Relaxed_58,Low Arousal,High Valence
+611,1EryAkZ0VHstC6haIxVBiE,Sextape,Deftones,243,Relaxed,Relaxed_47,Low Arousal,High Valence
+612,2ORU4XRGqFjPB2mTft0VPj,The World As I See It,Jason Mraz,239,Sad,Sad_72,Low Arousal,Low Valence
+613,4AjUg9dkevkmVobSzpcvcc,Sometimes I Feel So Lonely,Primal Scream,306,Sad,Sad_52,Low Arousal,Low Valence
+614,4lIsrJyQOdtBtRAyYiY2VD,The Crime At Edmond Lake,Tamas Wells,200,Relaxed,Relaxed_68,Low Arousal,High Valence
+615,4YbCG92sf99SbePU9bDktL,You Are My Sunshine,Carly Simon,156,Relaxed,Relaxed_98,Low Arousal,High Valence
+616,1cJkUN5LAotktryx2nPCr7,Silent Night,Taylor Swift,212,Sad,Sad_50,Low Arousal,Low Valence
+617,1HwpWwa6bnqqRhK8agG4RS,Beautiful Soul,Jesse Mccartney,199,Happy,Happy_16,High Arousal,High Valence
+618,4oNqHXaoXGU0ABoD3uMxy1,Sermon,Drowning Pool,259,Angry,Angry_15,High Arousal,Low Valence
+619,4OAuvHryIVv4kMDNSLuPt6,Red,Taylor Swift,223,Sad,Sad_38,Low Arousal,Low Valence
+620,75fvUWJMuOQod5mfLEBVU9,Use Your Fist And Not Your Mouth,Marilyn Manson,222,Angry,Angry_60,High Arousal,Low Valence
+621,1FBFioBHxagY5TUxx8c4HU,Me And You,Ringo Starr,135,Happy,Happy_24,High Arousal,High Valence
+622,3fOc9x06lKJBhz435mInlH,St. Anger,Metallica,441,Angry,Angry_30,High Arousal,Low Valence
+623,308rolel3ZG96kNaw6ZWGg,Street Map,Athlete,281,Relaxed,Relaxed_61,Low Arousal,High Valence
+624,4vR4jN5oYprr8lkQSlNu3M,Swingset Chain,Loquat,287,Relaxed,Relaxed_65,Low Arousal,High Valence
+625,22PMfvdz35fFKYnJyMn077,Marry You,Bruno Mars,231,Happy,Happy_23,High Arousal,High Valence
+626,0i1TWJD4NS99lC2edgudz5,Mrs. T.,Good Lovelies,238,Happy,Happy_32,High Arousal,High Valence
+627,5Hroj5K7vLpIG4FNCRIjbP,Best Day Of My Life,American Authors,517,Happy,Happy_18,High Arousal,High Valence
+628,2lW2hWO7Xw1ADSUp50w9b5,my gift of silence,Blackfield,245,Sad,Sad_19,Low Arousal,Low Valence
+629,4AC9YjgsGuJKydqaEc1TJq,Bourgeois Shangri-La,miss li,168,Happy,Happy_21,High Arousal,High Valence
+630,3U5JVgI2x4rDyHGObzJfNf,Unwritten,Natasha Bedingfield,263,Sad,Sad_84,Low Arousal,Low Valence
+631,510ixGp2Vw63vfbZchp0mT,By Our Love,Christy Nockels,221,Relaxed,Relaxed_30,Low Arousal,High Valence
+632,5o5w6VHcA2LMrwQ15ish3V,My Name Is Trouble,Keren Ann,253,Sad,Sad_21,Low Arousal,Low Valence
+633,2tZIVD0ZPxpsoFx7hvAjWh,The Saltwater Room,Owl City,246,Happy,Happy_83,High Arousal,High Valence
+634,260P406V4ys84uDOFGfcMA,Never Gonna Love Again,Lykke Li,240,Sad,Sad_22,Low Arousal,Low Valence
+635,4llK75pXNWZz6KAho2Gp16,She Will Be Loved,Maroon 5,245,Sad,Sad_48,Low Arousal,Low Valence
+636,75JFxkI2RXiU7L9VXzMkle,The Scientist,Coldplay,311,Sad,Sad_71,Low Arousal,Low Valence
+637,7I65hK45DQNCU16slT1dEJ,A Name In This Town,Josh Thompson,232,Happy,Happy_5,High Arousal,High Valence
+638,51NeLt5I2KN3qti5ZmbN0F,Always Getting Over You,Angela Ammons,253,Relaxed,Relaxed_13,Low Arousal,High Valence
+639,33gpH6M10smcgSDUYescVD,She,The Monkees,160,Happy,Happy_58,High Arousal,High Valence
+640,010ALbbh5KlQ4fKWgSdhRd,Look On Down From The Bridge,Mazzy Star,287,Sad,Sad_7,Low Arousal,Low Valence
+641,1Ye5jycdqaXhj9obRLn0ip,Unchained Melody,Harry Belafonte,205,Relaxed,Relaxed_85,Low Arousal,High Valence
+642,0yUyPe5c1o5cCyV7aJkz6F,Somewhat Damaged,Nine Inch Nails,271,Angry,Angry_24,High Arousal,Low Valence
+643,6Nhx9mQyWDE1kDQUsoAKVe,These Four Walls,Shawn Colvin,177,Sad,Sad_74,Low Arousal,Low Valence
+644,6hkOqJ5mE093AQf2lbZnsG,The One That Got Away,Katy Perry,231,Sad,Sad_70,Low Arousal,Low Valence
+645,6iq27lWBX3zvaX1ank9M2V,Nothing Compares,Pixie Lott,217,Sad,Sad_28,Low Arousal,Low Valence
+646,5Om4eWWZh9j05pEQVdxQ8b,Sad News,Chris Garneau,364,Relaxed,Relaxed_39,Low Arousal,High Valence
+647,3dKFxCpVtK3g9KAB8S1FwY,Never Know,Jack Johnson,212,Happy,Happy_34,High Arousal,High Valence
