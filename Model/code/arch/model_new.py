@@ -1,7 +1,10 @@
 import torch
 import torch.nn as nn
 from torch.autograd import Variable
-
+"""
+Original model by :https://github.com/SeungHeonDoh/Music_Emotion_Recognition
+Modified by: Dane
+"""
 class MultiNet(nn.Module):
     def __init__(self, emb_dim = 100, hid_dim = 40):
         super().__init__()
