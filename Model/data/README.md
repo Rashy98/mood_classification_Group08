@@ -11,5 +11,8 @@ For original dataset please refer to :<a href=https://cs.nju.edu.cn/sufeng/data/
 **NJU_spotify.ipynb** contains code for retrieve spotify features for NJU dataset and dataset splitting
 # Medieval dataset
 For original datast please refer to <a href=https://www.kaggle.com/datasets/imsparsh/deam-mediaeval-dataset-emotional-analysis-in-music>Deam</a><br>
-**MediaEval_clean.ipynb** contains code for spliting medieval dataset
-
+**MediaEval_clean.ipynb** contains code for spliting medieval dataset<br>
+**resample.py** contains code for resampling audio data to 16kHz to match wav2vec configuration<br>
+To further match the wav2vec setting, please use <a href=https://github.com/facebookresearch/demucs>Demucus</a> to separate human vocal from background music beforehand.<br>
+**local_feature.py** contains code for extracting local feature using wav2vec2.0 model<br>
+**context_feature.py.py** contains code for extracting contextualized feature using wav2vec2.0 model<br>
