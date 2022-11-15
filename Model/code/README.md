@@ -38,3 +38,9 @@ The arch folder contains model structures.<br>
 **rnn.py** contains code for LSTM encoder for segment features<br>
 **mlp.py** contains code for MLP encoder for global features
 
+## Screenshot
+The screenshot of example runs are shown below
+![result screenshot 1](https://github.com/Rashy98/mood_classification_Group08/blob/master/Model/code/results/Screenshot%202022-11-10%20at%204.15.33%20PM.png)
+![result screenshot 2](https://github.com/Rashy98/mood_classification_Group08/blob/master/Model/code/results/Screenshot%202022-11-11%20at%206.18.04%20PM.png)
+![result screenshot 2](https://github.com/Rashy98/mood_classification_Group08/blob/master/Model/code/results/Screenshot%202022-11-15%20at%208.16.25%20AM.png)
+
